@@ -12,7 +12,6 @@ theme_settings:
   header_text: >
      <h1> Software Developer </h1>
      <p> You can find me writing code or writing music! </p>
-     <p> Experienced in HTML, CSS and Javascript. </p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
