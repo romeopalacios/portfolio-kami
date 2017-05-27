@@ -10,28 +10,28 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <h1>Witty & Hilarious Rails Developer</h1>
-     <p>I'm a kickass developer specializing in Rails, AngularJS, and MongoDB.</p>
+     <h1> Software Developer </h1>
+     <p> You can find me writing code or writing music! Experienced in HTML, CSS and Javascript. </p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: romeopalacios@ymail.com
   behance:
   bitbucket:
   dribbble:
   facebook:
   flickr:
-  github: # github profile name, e.g. "madebymunsters"
+  github: https://github.com/romeopalacios
   google_plus:
-  instagram:
-  linkedin:  # Full URL
+  instagram: https://www.instagram.com/romeopmusic/?hl=en
+  linkedin: https://www.linkedin.com/in/romeo-palacios-781839b1/
   pinterest:
   reddit:
   soundcloud:
-  stack_exchange:  # Full URL
+  stack_exchange:  
   steam:
   tumblr:
   twitter:
