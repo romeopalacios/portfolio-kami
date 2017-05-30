@@ -21,7 +21,7 @@ The biggest task in creating this site was getting accustomed to the JQuery libr
 
 ## Solution
 
-Getting a better understanding of JS objects and plenty of debugging made the completion of this project a lot easier. 
+Getting a better understanding of JS objects, reviewing JS fundamentals, and plenty of debugging made the completion of this project a lot easier. 
 
 
 

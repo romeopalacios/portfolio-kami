@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bloc Jams
+title: Bloc Jams Angular
 thumbnail-path: "img/blocjamsalbum.png"
 short-description: A digital music player application like Spotify.
 
@@ -16,7 +16,7 @@ Bloc Jams is a digital music player app that resmebles <a href="https://www.spot
 
 ## Problem
 
-The main task was to learn how to incorporate and build the entire application using the Angular framework. It was challenging to learn how to initiate Angular modules, controllers and services. It was also difficult to learn and appropriately apply the different types of services. Finally, I had to learn the Angular directives to use in the html pages in order to have the desired functionality.
+The main task was to learn how to incorporate and build the entire application using the Angular framework. I learned how to initiate Angular modules, controllers and services. It was challenging to learn and appropriately apply the different types of services. I also had to learn the Angular directives to use in the html pages in order to have the desired functionality.
 
 ## Solution
 
