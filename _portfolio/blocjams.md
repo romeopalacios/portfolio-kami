@@ -11,7 +11,7 @@ short-description: A digital music player application like Spotify.
 
 ## Explanation
 
-Bloc Jams is a digital music player app that resmebles <a href="https://www.spotify.com/us/">Spotify.</a> With this project, I learned how to properly use Vanilla JS and JQuery to build a functioning application. It has an easy to manange interface and it uses BuzzFeed sounds for the mp3 files.
+Bloc Jams is a digital music player app that resmebles <a href="https://www.spotify.com/us/">Spotify.</a> With this project, I learned how to properly use Vanilla JS and JQuery to build a functioning application. It has an easy to manange interface and it uses Buzz sounds for the mp3 files.
 
 
 ## Problem
